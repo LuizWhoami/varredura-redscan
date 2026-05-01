@@ -2,7 +2,7 @@
 
 Script em **Bash** para análise de logs de acesso (`access.log`), focado na detecção de possíveis atividades maliciosas e comportamentos suspeitos em servidores web.
 
----
+--
 
 ## 📌 Funcionalidades
 
